@@ -5,16 +5,17 @@ time: 2019-4-23 09:19:42
 
 # 文件目录结构
 ```text
-文件夹 PATH 列表
-卷序列号为 0B87-0F83
-D:.
-├─.idea
-│  ├─codeStyles
-│  ├─dictionaries
-│  └─inspectionProfiles
+onlineStudySystem
+│  pom.xml
+│  README.md
+│
 ├─doc
 │  └─wiki
+│          设计文档.md
+│
 ├─ocOperator
+│  │  pom.xml
+│  │
 │  └─src
 │      └─main
 │          ├─java
@@ -22,8 +23,14 @@ D:.
 │          │      └─dawn
 │          │          └─college
 │          └─webapp
+│              │  index.jsp
+│              │
 │              └─WEB-INF
+│                      web.xml
+│
 ├─ocPortal
+│  │  pom.xml
+│  │
 │  └─src
 │      └─main
 │          ├─java
@@ -31,8 +38,14 @@ D:.
 │          │      └─dawn
 │          │          └─collage
 │          └─webapp
+│              │  index.jsp
+│              │
 │              └─WEB-INF
+│                      web.xml
+│
 ├─ocService
+│  │  pom.xml
+│  │
 │  └─src
 │      └─main
 │          ├─java
@@ -41,6 +54,9 @@ D:.
 │          │          └─collage
 │          └─resources
 └─osCommon
+    │  osCommon.iml
+    │  pom.xml
+    │
     └─src
         └─main
             ├─java
