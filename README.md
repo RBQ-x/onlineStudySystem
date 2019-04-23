@@ -10,7 +10,42 @@ onlineStudySystem
         - wiki
             设计文档.md
         install.sql
-    - 待补充项目子模块...
+    - ocOperator
+        - src
+            - main
+                - java
+                    - me.dawn.collage
+                - webapp
+                    - WEB-INF
+                        web.xml
+                    index.jsp
+        pom.xml
+    - ocPortal
+        - src
+            - main
+                - java
+                    - me.dawn.collage
+                - webapp
+                    - WEB-INF
+                        web.xml
+                    index.jsp
+        pom.xml
+    - ocService
+        - src
+            - main
+                - java
+                    - me.dawn.collage
+                - resources
+        pom.xml
+    - ocCommon
+        - src
+            - main
+                - java
+                    - me.dawn.collage
+                - resources
+        pom.xml
+    
+    
     pom.xml
     README.md
 ```
