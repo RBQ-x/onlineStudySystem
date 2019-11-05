@@ -16,7 +16,7 @@
     <packaging>pom</packaging>
 
     <description>
-        主项目结构，采用SSM实现的在线教育平台，请仔细阅读doc中的文档说明111
+        主项目结构，采用SSM实现的在线教育平台，请仔细阅读doc中的文档说明
     </description>
 
     <properties>
